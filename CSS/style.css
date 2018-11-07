@@ -1,0 +1,8 @@
+body{
+    color: rgba(0, 0, 999, 0.5);
+    background-color: rgba(99, 299, 0, 0.9);
+    background-image: linear-gradient(to right, red , yellow);
+}
+h1{
+    font-size: 290%;
+}
